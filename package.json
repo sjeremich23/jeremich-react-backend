@@ -1,0 +1,19 @@
+{
+  "name": "jeremich-react-backend",
+  "version": "1.0.0",
+  "description": "Boilerplate for backend",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjeremich23/jeremich-react-backend.git"
+  },
+  "author": "Shane Jeremich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjeremich23/jeremich-react-backend/issues"
+  },
+  "homepage": "https://github.com/sjeremich23/jeremich-react-backend#readme"
+}
